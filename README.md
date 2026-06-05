@@ -1,6 +1,6 @@
 Hi, I'm Ziporah Moranga
 
-Data Analyst | Statistics Graduate | Google Certified  
+Data Analyst | Statistics Graduate | Google Data Analytics Certified  
 
 I am passionate about transforming data into actionable insights that support decision-making.  
 I have experience in data cleaning, analysis, visualization, and statistical modeling.
