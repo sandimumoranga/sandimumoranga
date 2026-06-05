@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Ziporah Moranga
 
-<!--
-**sandimumoranga/sandimumoranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Statistics Graduate | Google Certified  
 
-Here are some ideas to get you started:
+I am passionate about transforming data into actionable insights that support decision-making.  
+I have experience in data cleaning, analysis, visualization, and statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- R | Excel | SQL  
+- Data Visualization (ggplot2, Power BI)  
+- Statistical Analysis & Modeling  
+- Data Cleaning & Wrangling  
+
+Projects
+Teen Phone Addiction Analysis
+- Analyzed behavioral and psychological factors affecting addiction  
+- Built an **Ordinal Logistic Regression model**  
+- Identified key predictors like sleep, usage hours, and anxiety  
+
+View Project: 
+What I’m Working On
+- Improving machine learning skills  
+- Building real-world data projects  
+- Creating interactive dashboards  
+
+ LinkedIn: www.linkedin.com/in/ziporah-moranga-696124226
+
+Fun Fact
+I enjoy solving real-world problems using data.
+
